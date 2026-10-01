@@ -160,6 +160,11 @@ section > p {
   font-weight: 600;
 }
 
+.papers strongai {
+  color: #3F00FF;
+  font-weight: 600;
+}
+
 footer {
   padding: 25px 0 50px;
   border-top: 1px solid var(--line);
